@@ -8,7 +8,7 @@ Can language model be further improved by social communication?
 ### Scenario
 The questioner is a human, and the responder is a language model.
 Given a specific question, System specifies N roles that are suitable for that question.
-And ChatGPT model discusses as the roles, each role has a single speaking opportunity.
+And language model discusses as the roles, each role has a single speaking opportunity.
 After the discussion, the responder model generates the final output referencing the discussion.
 
 ### Limitations
