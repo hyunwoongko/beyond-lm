@@ -32,6 +32,9 @@ social_lm_output, chatgpt_output = model.ask(
 ```
 
 ### Results
+
+<details>
+
 ```
 질문:
 하울의 움직이는 성이 뭐야?
@@ -142,6 +145,9 @@ ChatGPT:
 죄송하지만 그러한 발언은 부적절하며 상대방에게 불쾌감을 주는 발언입니다.
 다른 말을 사용해주세요.
 ```
+    
+</details>
+    
 ## 2. Coming Soon
 
 TODO
