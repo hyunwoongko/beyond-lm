@@ -7,7 +7,7 @@ Can language model be further improved by social communication?
 
 ### Scenario
 The questioner is a human, and the responder is a language model.
-Given a specific question, We specify N roles that are suitable for that question.
+Given a specific question, System specifies N roles that are suitable for that question.
 Each language model corresponding to each role has a single speaking opportunity.
 After the discussion of the language models is over,
 The responder model generates the final output using the discussion.
