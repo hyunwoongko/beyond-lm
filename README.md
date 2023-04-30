@@ -34,7 +34,8 @@ social_lm_output, chatgpt_output = model.ask(
 ### Results
 
 <details>
-
+<summary>See results</summary>
+    
 ```
 질문:
 하울의 움직이는 성이 뭐야?
