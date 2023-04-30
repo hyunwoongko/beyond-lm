@@ -12,6 +12,10 @@ Each language model corresponding to each role has a single speaking opportunity
 After the discussion of the language models is over,
 The responder model generates the final output using the discussion.
 
+### Limitation and TODO
+In the current code, each language model has a single speaking opportunity.
+I plan to improve it that they can speak multiple turns to actually discuss.
+
 ### How to use
 ```python
 from beyond_lm.models.social_lm import SocialLM
