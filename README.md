@@ -3,8 +3,8 @@ In this repository, I will be conducting various ongoing researches on the futur
 
 ## 1. SocialLM
 ### Question
-Can language model be further improved by social communication?
 Humans have accumulated and developed knowledge through the collaboration of various domain experts. However, the current LLM is doing it all alone.
+My question is whether the language model can be further improved by social communication, or not.
 
 ### Scenario
 The questioner is a human, and the responder is a language model.
