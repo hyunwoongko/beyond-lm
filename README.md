@@ -14,7 +14,7 @@ The responder model generates the final output using the discussion.
 
 ### Limitations
 1. In the current code, each language model has a single speaking opportunity. I plan to improve it that they can speak multiple turns to actually discuss.
-2. Sometimes, Social LM scenarios are exposed to users. I have to solve this.
+2. Sometimes, SocialLM's scenario is exposed to users. I have to solve this.
 
 ### How to use
 ```python
