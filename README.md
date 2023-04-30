@@ -10,7 +10,7 @@ The questioner is a human, and the responder is a language model.
 Given a specific question, We specify N roles that are suitable for that question.
 Each language model corresponding to each role has a single speaking opportunity.
 After the discussion of the language models is over,
-The responder model synthesizes the contents of the discussion as a single answer.
+The responder model generates the final output using the discussion.
 
 ### How to use
 ```python
